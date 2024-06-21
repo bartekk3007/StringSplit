@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.AssemblyInfo.cs
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\SplitMethod\bin\Debug\net8.0\SplitMethod.exe
+C:\Users\48571\source\repos\SplitMethod\bin\Debug\net8.0\SplitMethod.deps.json
+C:\Users\48571\source\repos\SplitMethod\bin\Debug\net8.0\SplitMethod.runtimeconfig.json
+C:\Users\48571\source\repos\SplitMethod\bin\Debug\net8.0\SplitMethod.dll
+C:\Users\48571\source\repos\SplitMethod\bin\Debug\net8.0\SplitMethod.pdb
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.dll
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\refint\SplitMethod.dll
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.pdb
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\SplitMethod.genruntimeconfig.cache
+C:\Users\48571\source\repos\SplitMethod\obj\Debug\net8.0\ref\SplitMethod.dll
